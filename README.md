@@ -8,5 +8,5 @@ cesarsantos96/cesarsantos96 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsantos96)]([https://github.com/cesarsantos96](https://github.com/cesarsantos96)/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?cesarsantos96=mycesarsantos96&theme=tokyonight)
