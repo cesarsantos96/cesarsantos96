@@ -22,7 +22,9 @@ You can click the Preview link to take a look at your changes.
   <p align="left">
  
     <a href="https://www.linkedin.com/in/cesar-santos-51811456" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+   
     <a href="https://www.instagram.com/csaaruto" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   
     <a href="https://www.dev.to/csaaruto96" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev%2Eto&logoColor=white" alt="Dev.To"></a>
  </p> 
 </div>
