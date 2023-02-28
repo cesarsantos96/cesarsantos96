@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m César Santos, student of systems analysis and development.
 - 👀 I’m interested in HTML5, CSS, Python, JS, React, Django and TypeScript 
-- 📫 How to reach me csar.santos18@gmail.com
+- 📫 How to reach me csar.santos18@gmail.com and https://www.linkedin.com/in/cesar-augusto-dos-santos/
 
 <!---
 cesarsantos96/cesarsantos96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
