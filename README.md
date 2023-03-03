@@ -12,9 +12,11 @@ You can click the Preview link to take a look at your changes.
  <a href="https://github.com/cesarsantos96">
    
  
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=cesarsantos96&show_icons=true&theme=codeSTACKr">
+ <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=cesarsantos96&show_icons=true&theme=codeSTACKr">
  
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsantos96&show_icons=true&theme=codeSTACKr">
+  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsantos96&layout=compact&langs_count=7&theme=dracula"/>
  
 </div>
 
