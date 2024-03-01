@@ -29,7 +29,7 @@
 </div>
 
 <div>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsantos96"> 
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsantos96&layout=compact"> 
 </div>
     <h1>IDE</h1>
 <div>
