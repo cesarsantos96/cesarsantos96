@@ -27,6 +27,10 @@
 </div>
 </p>
 </div>
+
+<div>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsantos96)](https://github.com/cesarsantos96/github-readme-stats)
+</div>
     <h1>IDE</h1>
 <div>
   <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
