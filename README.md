@@ -29,7 +29,7 @@
 </div>
 
 <div>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsantos96)](https://github.com/cesarsantos96/github-readme-stats)
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsantos96"> 
 </div>
     <h1>IDE</h1>
 <div>
